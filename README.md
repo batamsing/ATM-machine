@@ -8,14 +8,21 @@ AtmOperation.java: The main class for ATM operations.
 ## Features:
 ### AdminOperation
 **Add Account:** Administrators can input account details, including name, date of birth, address, and phone number, to create new accounts.
+
 **Deposit:** Deposit money into user accounts.
+
 **Remove Account:** Remove accounts by providing the account number.
+
 **Update Account:** Update account details, such as name, address, phone, and date of birth.
+
 **View Accounts:** View details of all accounts in the system.
 ### AtmOperation
 **Withdraw Money:** Users can withdraw money from their accounts by providing the necessary details.
+
 **Transfer Funds:** Transfer money between accounts.
+
 **Deposit Money:** Deposit money into user accounts.
+
 **Change PIN:** Change the PIN by validating the account number and existing PIN.
 
 
