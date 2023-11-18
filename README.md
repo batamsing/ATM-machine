@@ -3,7 +3,7 @@ Welcome to the ATM Machine project! This Java-based project simulates the functi
 
 ## Project Structure
 AdminOperation.java: The main class for administrative operations.
-AtmOperation.java: The main class for ATM operations.
+Atm.java: The main class for ATM operations.
 
 ## Features:
 ### AdminOperation
