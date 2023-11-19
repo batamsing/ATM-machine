@@ -2,8 +2,9 @@
 Welcome to the ATM Machine project! This Java-based project simulates the functionality of an Automated Teller Machine (ATM) with two main classes: AdminOperation and AtmOperation. The AdminOperation class allows administrators to perform tasks such as adding accounts, depositing money, removing accounts, updating account details, and viewing accounts. The AtmOperation class is designed for users to interact with the ATM, enabling actions like withdrawing money, transferring funds, depositing money, and changing their PIN.
 
 ## Project Structure
-AdminOperation.java: The main class for administrative operations.
-AtmOperation.java: The main class for ATM operations.
+**AdminOperation.java:** The main class for administrative operations.
+
+**Main.java:** The main class for ATM operations.
 
 ## Features:
 ### AdminOperation
@@ -48,6 +49,6 @@ To run the ATM Machine project locally:
 3. Compile and run the application:
 
     ```bash
-    javac AdminOperation.java Atm.java
+    javac AdminOperation.java Main.java
     java AdminOperation
     ```
